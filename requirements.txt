@@ -1,0 +1,14 @@
+cloudpickle
+cycler
+kiwisolver
+matplotlib
+neat-python
+numpy
+pickleshare
+plotly
+pygame
+pyparsing
+python-dateutil
+retrying
+six
+graphviz
